@@ -1,0 +1,1 @@
+mov ah,1    ;and ax present 0001000 == 2^4
