@@ -27,3 +27,5 @@ s:
 
 code ends
 end
+
+; The compiler interprets [idata] as idata, so we should use DS:[idata] 
